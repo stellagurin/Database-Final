@@ -1,0 +1,34 @@
+Have the Customers-agents-orders-products table that you did in the first labs in front of you. I ask questions from the table.
+
+
+The test EXAM will be multiple choice. It will focus a lot on all the assignments and quizzes.
+
+Below are questions on Ethics as well as Database Architecture that will be on the exam. 
+
+
+1) The ANSI-SPARC 3-layered Database architecture consists of: (Ch. 2, Navathe slides)
+A) External (what each individual user sees), Logical (the combination of all database objects including TABLES, INDEXES, VIEWS, STORED PROCEDURES, TRIGGERS, e.g.; at level which the DBA works at, Internal (Index structures, algorithms LRU, e.g.)
+B) Front-end, Middleware, Back-end
+C) Hard Disks w/ RAID 
+C) All of the above
+
+2) The mapping of of the layers in the 3-layer architecture provides
+A) Increase in Database Performance
+B) Data Independence
+C) Concurrency
+D) All of the above
+ 
+
+3) Which one is true about Ethics
+A) Ethics and Law are always on the same side
+B) Ethics and Law are always on opposite sides
+C) Ethics and Law are NOT always on the same side
+D) All of the above
+ 
+
+4) Which is true about Ethics regarding to Machine Learning/Data Mining
+A) It is unethical because it is based on Discrimination
+B) It must be done very carefully when it deals with Human Subjects, because it is very easy to make a c mistake as well as unethical conclusions.
+C) It should be avoided when it deals with Human subjects because it is based on Induction/Discrimination.
+D) All of the above
+
